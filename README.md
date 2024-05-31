@@ -3,11 +3,13 @@
 This repository contains implementations of various logic gates using neural networks, including AND, OR, NAND, NOR, and XOR gates.
 
 ## Table of Contents
-![Introduction](#introduction)
-![Installation](#installation)
-![Usage](#usage)
-![Contributing](#contributing)
-![License](#license)
+- [Neural Logic Gates](#neural-logic-gates)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Introduction
 This repository demonstrates how to model basic logic gates using neural networks. Each logic gate is implemented using a small neural network with one or more layers, showcasing the ability of neural networks to learn simple logical operations.
